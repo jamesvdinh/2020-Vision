@@ -1,6 +1,6 @@
 # covid-stats
-Our program can give you information about recent COVID-19 statistics (10/10/20).
-Our program can give you information about recent COVID-19 statistics (10/10/20). Statistics include:
+This program can give you information about recent COVID-19 statistics (10/10/20).
+In addition, our program can give you information about recent COVID-19 statistics (10/10/20). Statistics include:
 1. Total cases
 2. Population
 3. Percentage of infected among the population (by state)
